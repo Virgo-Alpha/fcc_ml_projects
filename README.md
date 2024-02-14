@@ -4,4 +4,6 @@ Machine learning has many practical applications. By completing these free and c
 
 1. Linear Regression Health Costs Calculator
 2. Neural Network SMS Text Classifier
+3. KNN Book Recommendation Algorithm
+4. Cat Dog Image Classifier
 
